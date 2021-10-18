@@ -3,4 +3,5 @@ Lion
 Hippo
 Cheetah
 Elephant
-etc.
+Rabbit
+Snake
